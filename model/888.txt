@@ -1,0 +1,35 @@
+路由规则为/test/plantService
+
+plant.chinare.com.cn
+
+
+package com.example.demo;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class ApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
+
+
+
+https://download.springsource.com/release/STS/3.9.13.RELEASE/dist/e4.16/spring-tool-suite-3.9.13.RELEASE-e4.16.0-win32-x86_64.zip
+
+
+https://download.springsource.com/release/TOOLS/update/3.9.13.RELEASE/e4.16/springsource-tool-suite-3.9.13.RELEASE-e4.16.0-updatesite.zip
+
+
+公司git地址是https://gitea.chinare.com.cn/
+
+后端代码仓库地址是https://gitea.chinare.com.cn/yangh/plant_service.git
+
+git@gitea.chinare.com.cn:yangh/plant_service.git
